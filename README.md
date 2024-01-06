@@ -11,7 +11,7 @@ A password generator based on user input.
 
 [GitHub page](https://github.com/Digita1Panda/secure-password-generator)
 
-[Financial Analysis](https://digita1panda.github.io/secure-password-generator/)
+[Random Password Generator](https://digita1panda.github.io/secure-password-generator/)
 
 ## Installation
 
